@@ -1,0 +1,42 @@
+.ActionsBar {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 1rem;
+	align-items: flex-end;
+}
+
+.ActionsBar .search {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	margin-left: 20px;
+ }
+
+.ActionsBar input {
+	padding: 4px 0;
+	margin: 4px 0;
+	width: 300px;
+	border-radius: 20px;
+
+}
+
+
+
+button.primary {
+	background: rgb(80, 211, 95);
+	color: rgb(10, 4, 4);
+	width: 200px;
+}
+
+
+button.remove {
+	background: rgb(224, 42, 42);
+	color: rgb(7, 3, 3);
+	width: 200px;
+
+
+}
+
+button .remove :hover{
+	opacity: 1;
+}

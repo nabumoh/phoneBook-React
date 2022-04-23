@@ -1,0 +1,13 @@
+/* * * Nadeem Abomokh 206622755 * * Mohammad Hussen 208133454 * * 45/4  */
+.contact-form {
+	width: 100%;
+	max-width: 450px;
+	margin: auto;
+	padding: 32px;
+}
+
+.form-row {
+	display: flex;
+	justify-content: space-between;
+	margin: 8px 0;
+}

@@ -1,0 +1,38 @@
+/* * * Nadeem Abomokh 206622755 * * Mohammad Hussen 208133454 * * 45/4  */
+* {
+	box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.main_app{
+  background-color: rgb(195, 170, 235); 
+}
+.list{
+	flex: 1;
+}
+.app {
+  margin-top: 20 px;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  width: min(80%, 1000px);
+  margin: 0 auto;
+  background-color: burlywood;
+}
+
+
+.app-header {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	color: white;
+}
+
+
+
