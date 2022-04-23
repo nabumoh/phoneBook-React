@@ -1,3 +1,9 @@
+#Phone Book React App
+phoneBook that has been developed with React , it was my final project at Technion Universty
+
+Important : in order to execute the code need to download inside the folder the "Node modules" Package
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
